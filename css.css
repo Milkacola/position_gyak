@@ -1,0 +1,25 @@
+body {font-family:cursive}
+header {margin: auto; max-width: 900px;}
+article {max-width: 1000px; margin: auto; background-color: cadetblue; height: 1000px;}
+.gyonyorukepek {border: solid #000000 1px; margin: auto; left: 100px; max-width: 300;}
+.gyonyorukepek1 img { position: absolute;
+    right: 200px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;}
+.gyonyorukepek2 img {position: absolute;
+    right: 500px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;}
+.gyonyorukepek3 img {position: absolute;
+    right: 800px;
+    width: 200px;
+    padding: 10px;
+border-radius: 10px;
+}
+
+.gyonyorukepek1 img :hover {translate: scale(1,5);}
+.egynagykep {background-color: cadetblue;}
+.egynagykep img {max-width: 600px; border-radius: 10px; top: 300px; position: relative; left: 150px;}
+.cica {position: fixed;}
